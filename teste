@@ -1,3 +1,84 @@
+
 #EXTM3U
-#EXTINF:-1,ligthyear (2022
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:7B3CF57DC11727EC7CB4751353D23668E8CA299E
+#EXTINF:-1,SBT HD
+http://lmtv.me/live/4719wil/452540/90297.m3u8
+
+#EXTINF:-1,GLOBO
+http://lmtv.me/live/4719wil/452540/90060.m3u8
+
+#EXTINF:-1, GRAVAR HD
+http://lmtv.me/live/4719wil/452540/90267.m3u8
+
+#EXTINF:-1, GRAVAR SD
+http://lmtv.me/live/4719wil/452540/90268.m3u8
+
+#EXTINF:-1, REDE TV
+http://lmtv.me/live/4719wil/452540/90282.m3u8
+
+#EXTINF:-1,TELECINE PIPOCA
+http://lmtv.me/live/4719wil/452540/90376.m3u8
+
+#EXTINF:-1,culto TELECINE
+http://lmtv.me/live/4719wil/452540/90368.m3u8
+
+#EXTINF:-1, DIVERSÃO TELECINE
+http://lmtv.me/live/4719wil/452540/90371.m3u8
+
+
+#EXTINF:-1, TELECINE PREMIUM
+http://lmtv.me/live/4719wil/452540/90379.m3u8
+
+
+#EXTINF:-1, AXN HD
+http://lmtv.me/live/4719wil/452540/89813.m3u8
+
+#EXTINF:-1, FAMÍLIA HBO
+http://lmtv.me/live/4719wil/452540/90097.m3u8
+
+#EXTINF:-1, HBO máx.
+http://lmtv.me/live/4719wil/452540/90104.m3u8
+
+#EXTINF:-1, FX hd
+http://lmtv.me/live/4719wil/452540/90007.m3u8
+
+#EXTINF:-1, ESPN BRASIL
+http://lmtv.me/live/4719wil/452540/89963.m3u8
+
+#EXTINF:-1, SPORTV
+http://lmtv.me/live/4719wil/452540/90329.m3u8
+#EXTINF:-1, HBO HD
+http://lmtv.me/live/4719wil/452540/90101.m3u8
+
+#EXTINF:-1, HBO2
+http://lmtv.me/live/4719wil/452540/90093.m3u8
+
+#EXTINF:-1, MEGAPIX HD
+http://lmtv.me/live/4719wil/452540/90158.m3u8
+
+#EXTINF:-1, ESPAÇO HD
+http://lmtv.me/live/4719wil/452540/90317.m3u8
+
+#EXTINF:-1,DISCOVERY H&H
+http://lmtv.me/live/4719wil/452540/89918.m3u8
+
+#EXTINF:-1,DISCOVERY TURBO
+http://lmtv.me/live/4719wil/452540/89934.m3u8
+
+#EXTINF:-1, CANAL DE DESCOBERTA
+http://lmtv.me/live/4719wil/452540/89914.m3u8
+
+#EXTINF:-1,DISCOVERY ciência
+http://lmtv.me/live/4719wil/452540/89926.m3u8
+
+#EXTINF:-1, HISTÓRICO
+http://lmtv.me/live/4719wil/452540/90132.m3u8
+
+#EXTINF:-1, CENTRAL DE COMÉDIA
+http://lmtv.me/live/4719wil/452540/89882.m3u8
+
+#EXTINF:-1,VIVA
+http://lmtv.me/live/4719wil/452540/90441.m3u8
+
+#EXTINF:-1, TV NOVO TEMPO
+http://lmtv.me/live/4719wil/452540/90419.m3u8
+
