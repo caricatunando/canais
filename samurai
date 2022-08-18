@@ -1,0 +1,31 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " autônomo = " sim " ?>
+< complementos >
+< addon  id = " plugin.video.samurai "  version = " 1.0.1+matrix "  name = " [COLOR green]Samurai-addon [COLORgold] Brasil[/COLOR] "  provider-name = " Nando " >
+< requer >
+    < import  addon = " script.module.six " />
+    < import  addon = " script.module.kodi-six " />
+    < import  addon = " script.module.requests "  opcional = " true " />
+    < import  addon = " script.module.websocket "  version = " 0.50.0 "   opcional = " true " />
+    < import  addon = " script.module.youtube.dl "  opcional = " true " />
+    < import  addon = " plugin.video.youtube "  opcional = " true " />
+    < import  addon = " script.module.dateutil "  opcional = " true " />
+    < import  addon = " script.module.resolveurl "  opcional = " true " />
+    < import  addon = " script.module.urlresolver "  opcional = " true " />
+    < import  addon = " script.module.cloudscraper "  opcional = " true " />
+    < import  addon = " script.module.inputstreamhelper "  opcional = " true " />
+    < import  addon = " script.module.slproxy "  opcional = " true " />
+  </ requer >
+  < extension  point = " xbmc.python.pluginsource "  library = " default.py " >
+    < fornece >vídeo</ fornece >
+  </ extensão >
+  < ponto de extensão  = " xbmc.addon.metadata " >
+    < summary  lang = " pt " >[COLOR lime]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR]</ summary >
+    < description  lang = " pt " >[COLOR lime]Samurai Addon é apenas um AGREGADOR de links e, assim como o Google.com, agrega e organiza apenas os links externos. Não somos responsáveis ​​pelos arquivos aqui encontrados.[/COLOR]</ descrição >
+    < notícias >
+[COLOR marrom]PROIBIDO USO DO ADD-ON EM OUTRA REPO SEM AUTORIZAÇÃO[/COLOR]
+</ notícias >
+    < plataforma >todos</ plataforma >
+  < ativos >
+  </ extensão >
+</ complemento >
+</ complementos >
